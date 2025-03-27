@@ -1,6 +1,6 @@
 # Iranian Bank Transactions Fraud Detection (IBT-FD) Dataset
 
-The **Iranian Bank Transactions Fraud Detection (IBT-FD)** dataset is designed for research and development in fraud detection using machine learning techniques. The dataset consists of anonymized financial transaction features along with a binary fraud label.
+The **Iranian Bank Transactions Fraud Detection (IBT-FD)** dataset is prepared for research and development in fraud detection. The dataset consists of anonymized financial transaction features along with a binary fraud label.
 
 ## Dataset Description
 
