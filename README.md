@@ -27,4 +27,4 @@ The dataset contains **22 anonymized numerical features** along with a **Fraud**
 
 If you use this dataset in your research, please cite it as:
 
-@dataset{ibt-fd, title = {Iranian Bank Transactions Fraud Detection (IBT-FD) Dataset}, author = {Your Name}, year = {2025}, url = {https://github.com/your-repo/IBT-FD} }
+```Hosseini, Seyyed Sadegh. “Iranian Bank Transactions Fraud Detection (IBT-FD) Dataset”. Zenodo, March 27, 2025. https://doi.org/10.5281/zenodo.15097923.```
